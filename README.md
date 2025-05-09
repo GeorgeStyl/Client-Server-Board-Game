@@ -4,7 +4,7 @@ This project is a **client-server** application built with **JavaFX** that suppo
 
 ## Project Info
 
-This project was developed as part of a **group assignment** (**ομαδική εργασία**) for a university course. It demonstrates the use of **JavaFX** for building interactive UIs and **multithreading** for supporting real-time communication between multiple clients and the server.
+This project was developed as part of a **group assignment** for a university course. It demonstrates the use of **JavaFX** for building interactive UIs and **multithreading** for supporting real-time communication between multiple clients and the server.
 
 ## Features
 
@@ -32,10 +32,3 @@ This project was developed as part of a **group assignment** (**ομαδική �
 1. The **client** connects to the server using the provided IP and port.
 2. The client’s GUI is created using **JavaFX**, where players can interact with the game.
 3. Players' actions are sent to the server, and real-time updates are received to reflect changes in the game state.
-
-## How to Compile and Run
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/javafx-client-server-game.git
-cd javafx-client-server-game
